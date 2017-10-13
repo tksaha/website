@@ -12,31 +12,31 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Information Retrieval",
-    "Artificial Intelligence",
-    "Computational Linguistics"
+    "Machine Learning",
+    "Natural Language Processing",
+    "Network Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Computer Science"
-  institution = "Purdue University"
-  year = 2017
+  institution = "Purdue University, West Lafayette"
+  year = 2018 
 
 [[education.courses]]
   course = "MSc in Computer Science"
-  institution = "IUPUI"
+  institution = "Indiana University - Purdue University Indianapolis (IUPUI)"
   year = 2015
 
 [[education.courses]]
   course = "BSc in Computer Science and Engineering"
-  institution = "BUET"
+  institution = "Bangladesh University of Engineering and Technology (BUET) "
   year = 2009
  
 +++
 
 # Biography
 
-Tanay is a PhD candidate in Purdue University. His research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. 
+Tanay is a PhD candidate at Purdue University. His research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security.
 
-Tanay had the opportunity to work with a number of industrial research labs including NEC Labs, Data Analytics Team at QCRI, and iControl ESI.
+Tanay had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI.

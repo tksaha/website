@@ -24,11 +24,11 @@ defaultContentLanguageInSubdir = false
   organization = "Purdue University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "tksaha@iupui.edu"
+  avatar = "tanay.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  email = "tksaha@purdue.edu"
   address = "723 W Michigan St, SL 280, Indianapolis, IN 46202"
   office_hours = "Email for appointment"
-  phone = "317 991 2340"
+  phone = "+1 317 991 2340"
   skype = "saha.tanay"
   telegram = ""
 
@@ -141,7 +141,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "orcid"
     icon_pack = "ai"
-    link = "orcid.org/0000-0002-7478-9222"
+    link = "//orcid.org/0000-0002-7478-9222"
 
   [[params.social]]
     icon = "github"
@@ -159,10 +159,10 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications_selected"
-#  weight = 2
+[[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 2
 
 #[[menu.main]]
 #  name = "Posts"
