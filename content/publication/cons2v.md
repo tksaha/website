@@ -19,6 +19,6 @@ url_slides = "https://figshare.com/articles/CON-S2V_A_Generic_Framework_for_Inco
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/con-s2v.jpg"
+#image = "headers/con-s2v.jpg"
 
 +++

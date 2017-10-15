@@ -16,6 +16,6 @@ url_slides = "https://figshare.com/articles/Discovery_of_Functional_Motifs_from_
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/func-motif.png"
+#image = "headers/func-motif.png"
 
 +++
