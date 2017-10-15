@@ -101,20 +101,24 @@
    * Filter projects.
    * --------------------------------------------------------------------------- */
 
-  let $grid_projects = $('#container-projects');
-  $grid_projects.imagesLoaded(function () {
-    // Initialize Isotope after all images have loaded.
-    $grid_projects.isotope({
-      itemSelector: '.isotope-item',
-      layoutMode: 'masonry'
-    });
+  $('.projects-container').each(function(index, container) {
+    let $container = $(container);
+    let $section = $container.closest('section');
 
-    // Filter items when filter link is clicked.
-    $('#filters a').click(function () {
-      let selector = $(this).attr('data-filter');
-      $grid_projects.isotope({filter: selector});
-      $(this).removeClass('active').addClass('active').siblings().removeClass('active all');
-      return false;
+    $container.imagesLoaded(function() {
+      // Initialize Isotope after all images have loaded.
+      $container.isotope({
+        itemSelector: '.isotope-item',
+        layoutMode: 'masonry',
+        filter: $section.find('.default-project-filter').text()
+      });
+      // Filter items when filter link is clicked.
+      $section.find('.project-filters a').click(function() {
+        let selector = $(this).attr('data-filter');
+        $container.isotope({filter: selector});
+        $(this).removeClass('active').addClass('active').siblings().removeClass('active all');
+        return false;
+      });
     });
   });
 
@@ -132,19 +136,42 @@
     }
   });
 
-  // Bind publication filter on dropdown change.
-  $('.pub-filters-select').on('change', function() {
-    // Get filter value from option value.
-    let filterValue = this.value;
-    // Apply filter to Isotope.
-    $grid_pubs.isotope({ filter: filterValue });
+  // Active publication filters.
+  let pubFilters = {};
 
-    // Set hash URL to current filter.
-    let url = $(this).val();
-    if (url.substr(0, 9) == '.pubtype-') {
-      window.location.hash = url.substr(9);
-    } else {
-      window.location.hash = '';
+  // Flatten object by concatenating values.
+  function concatValues( obj ) {
+    let value = '';
+    for ( let prop in obj ) {
+      value += obj[ prop ];
+    }
+    return value;
+  }
+
+  $('.pub-filters').on( 'change', function() {
+    let $this = $(this);
+
+    // Get group key.
+    let filterGroup = $this[0].getAttribute('data-filter-group');
+
+    // Set filter for group.
+    pubFilters[ filterGroup ] = this.value;
+
+    // Combine filters.
+    let filterValues = concatValues( pubFilters );
+
+    // Activate filters.
+    $grid_pubs.isotope({ filter: filterValues });
+
+    // If filtering by publication type, update the URL hash to enable direct linking to results.
+    if (filterGroup == "pubtype") {
+      // Set hash URL to current filter.
+      let url = $(this).val();
+      if (url.substr(0, 9) == '.pubtype-') {
+        window.location.hash = url.substr(9);
+      } else {
+        window.location.hash = '';
+      }
     }
   });
 
@@ -158,8 +185,55 @@
       filterValue = '.pubtype-' + urlHash;
     }
 
-    $('.pub-filters-select').val(filterValue);
-    $grid_pubs.isotope({ filter: filterValue });
+    // Set filter.
+    let filterGroup = 'pubtype';
+    pubFilters[ filterGroup ] = filterValue;
+    let filterValues = concatValues( pubFilters );
+
+    // Activate filters.
+    $grid_pubs.isotope({ filter: filterValues });
+
+    // Set selected option.
+    $('.pubtype-select').val(filterValue);
+  }
+
+  /* ---------------------------------------------------------------------------
+  * Google maps.
+  * --------------------------------------------------------------------------- */
+
+  function initMap () {
+    if ($('#map').length) {
+      let lat = $('#gmap-lat').val();
+      let lng = $('#gmap-lng').val();
+      let address = $('#gmap-dir').val();
+
+      let map = new GMaps({
+        div: '#map',
+        lat: lat,
+        lng: lng,
+        zoomControl: true,
+        zoomControlOpt: {
+          style: 'SMALL',
+          position: 'TOP_LEFT'
+        },
+        panControl: false,
+        streetViewControl: false,
+        mapTypeControl: false,
+        overviewMapControl: false,
+        scrollwheel: true,
+        draggable: true
+      });
+
+      map.addMarker({
+        lat: lat,
+        lng: lng,
+        click: function (e) {
+          let url = 'https://www.google.com/maps/place/' + encodeURIComponent(address) + '/@' + lat + ',' + lng +'/';
+          window.open(url, '_blank')
+        },
+        title: address
+      })
+    }
   }
 
   /* ---------------------------------------------------------------------------
@@ -195,6 +269,8 @@
       // window.addEventListener('hashchange', filter_publications, false);
     }
 
+    // Initialise Google Maps if necessary.
+    initMap();
   });
 
 })(jQuery);

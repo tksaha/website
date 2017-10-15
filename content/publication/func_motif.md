@@ -1,6 +1,6 @@
 +++
 abstract="Modeling the interface region of a protein complex paves the way for understanding its dynamics and functionalities. Existing works model the interface region of a complex by using different approaches, such as, the residue composition at the interface region, the geometry of the interface residues, or the structural alignment of interface regions. These approaches are useful for ranking a set of docked conformation or for building scoring function for protein-protein docking, but they do not provide a generic  and scalable technique for the extraction of interface patterns leading to functional motif discovery. In this work, we model the interface region of a protein complex by graphs and extract interface patterns of the given complex in the form of frequent subgraphs. To achieve this we develop a scalable algorithm for frequent subgraph mining. We show that a systematic review of the mined subgraphs provides an effective method for the discovery of functional motifs that exist along the interface region of a given protein complex."
-authors = ["Tanay Kumar Saha","Ataur Katebi", "Dhifli Wajidi", "Mohammad Al Hasan"]
+authors = ["Tanay Kumar Saha","Ataur Katebi", "Wajdi Dhifli", "Mohammad Al Hasan"]
 date = "2017-07-01"
 image_preview = ""
 math = true
