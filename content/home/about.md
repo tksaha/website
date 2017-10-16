@@ -39,4 +39,5 @@ weight = 1
 
 Tanay is a PhD candidate at Purdue University. His research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security.
 
-Tanay had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI. {{% staticref "files/tanaycv.pdf" %}} Download my CV {{% /staticref %}}
+Tanay had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI. {{% staticref "files/tanaycv.pdf" %}} Download my CV. {{% /staticref %}}
+
