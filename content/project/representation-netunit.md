@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Representation Learning of Network Units"
 
 # Project summary to display on homepage.
-summary = ""
+summary = "Learning to understand the semantics of nodes, edges or higher order structures such as triangle or graphlets by representing them in lower dimensional space."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
@@ -34,4 +34,4 @@ math = false
 
 +++
 
-
+In classical machine learning, hand-designed features are used for learning a mapping from the features. However, recently, there is a surge of research in representation learning which aims to learn abstract features given the input. For networks, representation learned for nodes and edges has been used for tasks, such as link prediction, collective classification, and many others. In my PhD thesis, I have crafted methods for learning representation for both the sentences and the network nodes/edges. 

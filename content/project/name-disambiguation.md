@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Network Analysis and Mining"
+title = "Name Disambiguation"
 
 # Project summary to display on homepage.
-summary = "Mining information from a set of networks (graph Mining), finding important subnetwork from a single large network (motif finding) "
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"
