@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://tksaha.github.io/paper_resources/</loc>
+      <lastmod>2017-10-16T11:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://tksaha.github.io/publication/cons2v/</loc>
       <lastmod>2017-07-01T00:00:00+00:00</lastmod>
     </url>
@@ -50,6 +59,15 @@
     
     <url>
     
+      <loc>https://tksaha.github.io/project/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://tksaha.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -68,8 +86,8 @@
     
     <url>
     
-      <loc>https://tksaha.github.io/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>https://tksaha.github.io/resource/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -78,6 +96,15 @@
     <url>
     
       <loc>https://tksaha.github.io/project/example-external-project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://tksaha.github.io/project/deep-learning/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -192,16 +219,6 @@
     
       <loc>https://tksaha.github.io/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://tksaha.github.io/project/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
