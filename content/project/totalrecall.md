@@ -31,17 +31,17 @@ Total Recall is an important task in supervised text mining. The objective of th
 
 # Publications
 
-[1] **Saha, T. K.**, Al Hasan, M., Burgess, C., Habib, M. A., & Johnson, J. (2015, October). Batch-mode active learning for technology-assisted review. In Big Data (Big Data), 2015 IEEE International Conference on (pp. 1134-1143). IEEE. 
+[1] **Tanay Kumar Saha**, Mohammad Al Hasan, Chandler Burgess, M. A. Habib, and J. Johnson. "Batch-mode active learning for technology-assisted review." 2015 IEEE International Conference on Big Data (Big Data),  (pp. 1134-1143). [[PDF]](http://ieeexplore.ieee.org/abstract/document/7363867/)
 
 
-[2] **Saha, T. K.**, Ouzzani, M., Hammady, H. M., & Elmagarmid, A. K. (2016). A large scale study of SVM based methods for abstract screening in systematic reviews. arXiv preprint arXiv:1610.00192.
+[2] **Tanay Kumar Saha**, Mourad Ouzzani, Hossam Hammady, A. K. Elmagarmid. "A large scale study of SVM based methods for abstract screening in systematic reviews." [[PDF]](https://arxiv.org/abs/1610.00192)
 
 
 
 # Patent Application
 
-[1]Johnson, Jeffrey A., Md Ahsan Habib, Chandler L. Burgess, **Tanay Kumar Saha**, and Mohammad Al Hasan. "Apparatus and Method of Implementing Enhanced Batch-Mode Active Learning for Technology-Assisted Review of Documents." U.S. Patent Application 15/260538, filed September 9, 2016.
+[1] Johnson, Jeffrey A., Md Ahsan Habib, Chandler L. Burgess, Tanay Kumar Saha, and Mohammad Al Hasan. "Apparatus and Method of Implementing Batch-Mode Active Learning for Technology-Assisted Review of Documents." U.S. Patent Application 15/260444, filed September 9, 2016.
 
 
-[2]
+[2] Johnson, Jeffrey A., Md Ahsan Habib, Chandler L. Burgess, **Tanay Kumar Saha**, and Mohammad Al Hasan. "Apparatus and Method of Implementing **Enhanced** Batch-Mode Active Learning for Technology-Assisted Review of Documents." U.S. Patent Application 15/260538, filed September 9, 2016.
 

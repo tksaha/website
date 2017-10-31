@@ -59,15 +59,6 @@
     
     <url>
     
-      <loc>https://tksaha.github.io/project/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://tksaha.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -95,7 +86,7 @@
     
     <url>
     
-      <loc>https://tksaha.github.io/project/example-external-project/</loc>
+      <loc>https://tksaha.github.io/project/name-disambiguation/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +95,34 @@
     
     <url>
     
-      <loc>https://tksaha.github.io/project/deep-learning/</loc>
+      <loc>https://tksaha.github.io/project/netanalysis-mining/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://tksaha.github.io/project/representation-netunit/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://tksaha.github.io/project/representation-text/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://tksaha.github.io/project/totalrecall/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -178,6 +196,16 @@
     
     <url>
     
+      <loc>https://tksaha.github.io/tags/bio-informatics/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://tksaha.github.io/categories/</loc>
       <priority>0</priority>
     </url>
@@ -188,16 +216,6 @@
     <url>
     
       <loc>https://tksaha.github.io/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://tksaha.github.io/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -219,6 +237,46 @@
     
       <loc>https://tksaha.github.io/tags/jekyll/</loc>
       <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://tksaha.github.io/tags/natural-language-processing/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://tksaha.github.io/tags/network-analysis/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://tksaha.github.io/tags/nlp/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://tksaha.github.io/project/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -249,6 +307,16 @@
     
       <loc>https://tksaha.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://tksaha.github.io/tags/text-mining/</loc>
+      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

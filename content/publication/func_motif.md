@@ -6,10 +6,10 @@ image_preview = ""
 math = true
 publication_types = ["2"]
 publication = "*IEEE/ACM Transactions on Computational Biology and Bioinformatics*"
-publication_short = "In *TCBB*"
+publication_short = "In **TCBB**"
 selected = true
 title = "Discovery of Functional Motifs from the Interface Region of Oligomeric Proteins using Frequent Subgraph Mining"
-url_pdf = "https://www.researchgate.net/publication/319939600_Discovery_of_Functional_Motifs_from_the_Interface_Region_of_Oligomeric_Proteins_using_Frequent_Subgraph_Mining"
+url_pdf = "http://ieeexplore.ieee.org/document/8051102/"
 url_slides = "https://figshare.com/articles/Discovery_of_Functional_Motifs_from_the_Interface_Region_of_Oligomeric_Proteins_using_Frequent_Subgraph_Mining_Method/4565092"
 
 
