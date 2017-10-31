@@ -11,6 +11,6 @@ math = true
 ## {{% staticref "files/acad/teach.pdf" %}} Download General Teaching Statemnt {{% /staticref %}}
 ## {{% staticref "files/acad/reesarch.pdf" %}} Download General Research Statement. {{% /staticref %}}
 ## {{% staticref "files/acad/diverse.pdf" %}} Download General Diversity Statement. {{% /staticref %}}
-## {{% staticref "files/acad/publist.pdf" %}} Download Publication List. {{% /staticref %}}
-## {{% staticref "files/acad/cover.pdf" %}} Download Cover Letter. {{% /staticref %}}
+## {{% staticref "files/acad/publist.pdf" %}} Download General Publication List. {{% /staticref %}}
+## {{% staticref "files/acad/cover.pdf" %}} Download General Cover Letter. {{% /staticref %}}
 ## {{% staticref "files/acad/cv.pdf" %}} Download CV. {{% /staticref %}}
