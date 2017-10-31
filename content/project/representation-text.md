@@ -13,7 +13,7 @@ summary = "Learning to understand the semantics of natural language text (e.g., 
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning", "nlp"]
+tags = ["deep-learning", "nlp", "text-mining"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
