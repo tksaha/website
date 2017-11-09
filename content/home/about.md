@@ -37,13 +37,13 @@ weight = 1
 
 # Biography
 
-Tanay is a PhD candidate at Purdue University. His research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. 
+Tanay is a PhD candidate at Purdue University. His research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. {{% staticref "files/publist.pdf" %}} Download Publication List. {{% /staticref %}}
 
 Tanay also love sharing his knowledge. He worked as a lecturer for three years 
 after his graduation in Jagannath University and UITS. He worked as a Teaching assistant for several courses while at IUPUI. He earned the best TA award in 2017. 
 
 
-Tanay had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI. {{% staticref "files/tanaycv.pdf" %}} Download my CV. {{% /staticref %}}
+Tanay had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI. {{% staticref "files/tanaycv.pdf" %}} Download CV. {{% /staticref %}}
 
 Other than research, Tanay has also served in multiple organizations on campus. I served as an International Graduate Welcome volunteer, a Treasurer of the Asian Student Union, a member of School of Science Graduate Student Council, and a President of Bangladesh Student Association at IUPUI. {{% staticref "files/reco.pdf" %}} Here is a recommendation letter. {{% /staticref  %}}    
 
