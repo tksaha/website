@@ -45,7 +45,7 @@ after his graduation in Jagannath University and UITS. He worked as a Teaching a
 
 Tanay had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI. {{% staticref "files/tanaycv.pdf" %}} Download CV. {{% /staticref %}}
 
-Other than research, Tanay has also served in multiple organizations on campus. I served as an International Graduate Welcome volunteer, a Treasurer of the Asian Student Union, a member of School of Science Graduate Student Council, and a President of Bangladesh Student Association at IUPUI. {{% staticref "files/reco.pdf" %}} Here is a recommendation letter. {{% /staticref  %}}    
+Other than research, Tanay has also served in multiple organizations on campus. He served as an International Graduate Welcome volunteer, a Treasurer of the Asian Student Union, a member of School of Science Graduate Student Council, and a President of Bangladesh Student Association at IUPUI. {{% staticref "files/reco.pdf" %}} Here is a recommendation letter. {{% /staticref  %}}    
 
 During his spare time, he loves to do biking, hiking, and many other outdoor activities with his friends. 
 
