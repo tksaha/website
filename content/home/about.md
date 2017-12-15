@@ -49,5 +49,9 @@ Other than research, Tanay has also served in multiple organizations on campus. 
 
 During his spare time, he loves to do biking, hiking, and many other outdoor activities with his friends. 
 
+I am currently exploring some ev3 stuffs. Please see the following videos. For details, please see my posts section.
+
+{{< youtube f-Mwxsw_iqs >}}
+
 
 
