@@ -17,8 +17,13 @@ url_slides = "https://figshare.com/articles/CON-S2V_A_Generic_Framework_for_Inco
 
 
 
+
+
+
 # Optional featured image (relative to `static/img/` folder).
 [header]
 #image = "headers/con-s2v.jpg"
 
 +++
+
+{{< speakerdeck  28a2b7112f8f4137be3383b8f24e42ff>}}

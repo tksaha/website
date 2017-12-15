@@ -19,3 +19,7 @@ url_slides = "https://figshare.com/articles/Discovery_of_Functional_Motifs_from_
 #image = "headers/func-motif.png"
 
 +++
+
+{{< speakerdeck  0ccf9052a91f4d9abc3f708176b4ec10>}}
+
+
