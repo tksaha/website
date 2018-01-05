@@ -12,6 +12,7 @@ ____________________________________________________________
 ## {{% staticref "files/sysrev_graphical.jpg" %}} Download Graphical Abstract. {{% /staticref %}}
 ## {{% staticref "files/sysrevslide.pdf" %}} Download Slide. {{% /staticref %}}
 ## {{% staticref "files/sysrev.zip" %}} Download Results. {{% /staticref %}}
+## {{% staticref "files/sysrev-in-details.pdf" %}} Download Report. {{% /staticref %}}
 
 ## Some interesting query results from our trained word2vec model.
 
