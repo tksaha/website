@@ -25,33 +25,30 @@ weight = 1
 
 [[education.courses]]
   course = "MSc in Computer Science"
-  institution = "Indiana University - Purdue University Indianapolis (IUPUI)"
+  institution = "IUPUI"
   year = 2015
 
 [[education.courses]]
-  course = "BSc in Computer Science and Engineering"
-  institution = "Bangladesh University of Engineering and Technology (BUET) "
+  course = "BSc in Computer Science"
+  institution = "BUET"
   year = 2009
  
 +++
 
 # Biography
 
-Tanay is a PhD candidate at Purdue University. His research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. {{% staticref "files/publist.pdf" %}} Download Publication List. {{% /staticref %}}
-
-Tanay also love sharing his knowledge. He worked as a lecturer for three years 
-after his graduation in Jagannath University and UITS. He worked as a Teaching assistant for several courses while at IUPUI. **He earned the best TA award in 2017.** 
+I have defended my PhD thesis and graduating in May, 2018 from Purdue University, West Lafayette. My research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. I have open-sourced the codes related to my 
+PhD thesis. [[Sen2Vec Code](https://github.com/tksaha/con-s2v/tree/jointlearning),[Temporal node2vec Code](https://gitlab.com/tksaha/temporalnode2vec.git), [Motif Finding Code](https://github.com/tksaha/motif-finding), [Frequent Subgraph Mining Code](https://github.com/tksaha/fs3-graph-mining), [Finding Functional Motif Code](https://gitlab.com/tksaha/func\_motif)].
 
 
-Tanay had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI. {{% staticref "files/tanaycv.pdf" %}} Download CV. {{% /staticref %}}
+During my PhD, I had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI. {{% staticref "files/tanaycv.pdf" %}} Download CV. {{% /staticref %}}
 
-Other than research, Tanay has also served in multiple organizations on campus. He served as an International Graduate Welcome volunteer, a Treasurer of the Asian Student Union, a member of School of Science Graduate Student Council, and a President of Bangladesh Student Association at IUPUI. {{% staticref "files/reco.pdf" %}} Here is a recommendation letter. {{% /staticref  %}}    
 
-During his spare time, he loves to do biking, hiking, and many other outdoor activities with his friends. 
+During my spare time, I love to do biking, hiking, and many other outdoor activities with my friends. 
 
-I am currently exploring some ev3 stuffs. Please see the following video. For details, please see my posts section.
 
-{{< youtube f-Mwxsw_iqs >}}
+{{< speakerdeck  868250ef400249028ebf5f60266caf84>}}
+
 
 
 

@@ -38,12 +38,12 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Tanay Kumar Saha"
-  role = "PhD Candidate"
+  role = "PhD"
   organization = "Purdue University"
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "tanay.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "tksaha@purdue.edu"
+  email = "nataycse@gmail.com"
   address = "723 W Michigan St, SL 280, Indianapolis, IN 46202"
   office_hours = "Email for appointment"
   phone = "+1 317 991 2340"
