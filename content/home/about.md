@@ -38,16 +38,14 @@ weight = 1
 # Biography
 
 I have defended my PhD thesis and graduating in May, 2018 from Purdue University, West Lafayette. My research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. I have open-sourced the codes related to my 
-PhD thesis. [[Sen2Vec Code](https://github.com/tksaha/con-s2v/tree/jointlearning),[Temporal node2vec Code](https://gitlab.com/tksaha/temporalnode2vec.git), [Motif Finding Code](https://github.com/tksaha/motif-finding), [Frequent Subgraph Mining Code](https://github.com/tksaha/fs3-graph-mining), [Finding Functional Motif Code](https://gitlab.com/tksaha/func\_motif)].
+PhD thesis. 
 
 
 During my PhD, I had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI. {{% staticref "files/tanaycv.pdf" %}} Download CV. {{% /staticref %}}
 
 
-During my spare time, I love to do biking, hiking, and many other outdoor activities with my friends. 
+During my spare time, I love to do reading novels, biking, hiking, and many other outdoor activities with my friends. 
 
-
-{{< speakerdeck  868250ef400249028ebf5f60266caf84>}}
 
 
 

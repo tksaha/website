@@ -1,6 +1,6 @@
 baseurl = "https://tksaha.github.io/"  # End your URL with a `/` trailing slash.
 title = "Tanay Kumar Saha"
-copyright = "&copy; 2017 Tanay Kumar Saha"
+copyright = "&copy; 2018 Tanay Kumar Saha"
 theme = "academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -200,9 +200,14 @@ defaultContentLanguageInSubdir = false
  weight = 3
 
 [[menu.main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Softwares"
+  url = "#softwares"
   weight = 4
+
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 4
 
 #[[menu.main]]
 #  name = "Teaching"

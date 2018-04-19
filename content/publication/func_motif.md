@@ -9,6 +9,7 @@ publication = "*IEEE/ACM Transactions on Computational Biology and Bioinformatic
 publication_short = "In **TCBB**"
 selected = true
 title = "Discovery of Functional Motifs from the Interface Region of Oligomeric Proteins using Frequent Subgraph Mining"
+url_code = "https://gitlab.com/tksaha/func_motif"
 url_pdf = "http://ieeexplore.ieee.org/document/8051102/"
 url_slides = "https://figshare.com/articles/Discovery_of_Functional_Motifs_from_the_Interface_Region_of_Oligomeric_Proteins_using_Frequent_Subgraph_Mining_Method/4565092"
 
@@ -20,6 +21,6 @@ url_slides = "https://figshare.com/articles/Discovery_of_Functional_Motifs_from_
 
 +++
 
-{{< speakerdeck  0ccf9052a91f4d9abc3f708176b4ec10>}}
+
 
 

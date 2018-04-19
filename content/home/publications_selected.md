@@ -31,5 +31,3 @@ list_format = 2
 publication_type = "-1"
 +++
 
-{{< speakerdeck  28a2b7112f8f4137be3383b8f24e42ff>}}
-{{< speakerdeck  0ccf9052a91f4d9abc3f708176b4ec10>}}
