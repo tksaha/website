@@ -37,7 +37,7 @@ weight = 1
 
 # Biography
 
-My research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. I have open-sourced the codes related to my PhD thesis. Here is a presentation you may want to go through to know my research better.
+My research (mostly applied) interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. I have open-sourced the codes related to my PhD thesis. Here is a presentation you may want to go through to know my research better.
 
 {{< speakerdeck f8b7e21b8fa242d8bfcd454554c4ca3c >}}
 
@@ -46,7 +46,7 @@ My research interest includes developing novel data mining and machine learning 
 During my PhD, I had the opportunity to work with many industrial research labs including eBay, CareerBuilder, NEC Labs, Data Analytics Team at QCRI, and iControl ESI. {{% staticref "files/tanaycv.pdf" %}} Download CV. {{% /staticref %}}
 
 
-During my spare time, I love to do reading novels, biking, hiking, and many other outdoor activities with my friends. 
+During my spare time, I love to do reading novels, biking, hiking, and many other outdoor activities with my friends. I have recently finished two good books: (1) Kite Runner and (2) To Kill a Mockingbird. I am also a big fan of train travel and have recently explored the amtrak network in US.
 
 
 
