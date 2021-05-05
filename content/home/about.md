@@ -37,7 +37,7 @@ weight = 1
 
 # Biography
 
-My research (mostly applied) interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. I have open-sourced the codes related to my PhD thesis. Here is a presentation you may want to go through to know my research better.
+My research interest includes developing novel data mining and machine learning algorithms for applications in various domains, such as text mining, biology, and security. I have open-sourced the codes related to my PhD thesis. Here is a presentation you may want to go through to know my research better.
 
 {{< speakerdeck f8b7e21b8fa242d8bfcd454554c4ca3c >}}
 
